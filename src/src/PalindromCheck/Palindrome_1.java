@@ -1,4 +1,4 @@
-package PalindromCheck;
+package src.PalindromCheck;
 
 import java.util.Scanner;
 
